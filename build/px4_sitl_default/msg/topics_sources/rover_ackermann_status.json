@@ -1,0 +1,10 @@
+
+
+{
+		"fields": "\u0089 timestamp;\u008a measured_forward_speed;\u008a adjusted_forward_speed_setpoint;\u008a steering_setpoint_normalized;\u008a adjusted_steering_setpoint_normalized;\u008a measured_lateral_acceleration;\u008a pid_throttle_integral;\u008a pid_lat_accel_integral;\u0086[4] _padding0;",
+		"fields_total_length": 279,
+		"orb_ids": [199],
+		"main_orb_id": 199,
+		"dependencies": [],
+		"name": "px4/RoverAckermannStatus"
+}

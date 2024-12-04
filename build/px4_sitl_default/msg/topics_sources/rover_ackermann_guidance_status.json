@@ -1,0 +1,10 @@
+
+
+{
+		"fields": "\u0089 timestamp;\u008a lookahead_distance;\u008a heading_error;",
+		"fields_total_length": 64,
+		"orb_ids": [197],
+		"main_orb_id": 197,
+		"dependencies": [],
+		"name": "px4/RoverAckermannGuidanceStatus"
+}

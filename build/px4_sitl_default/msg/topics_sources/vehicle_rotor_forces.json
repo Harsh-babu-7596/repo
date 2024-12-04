@@ -1,0 +1,10 @@
+
+
+{
+		"fields": "\u0089 timestamp;\u008a[3] force;\u0086[4] _padding0;",
+		"fields_total_length": 55,
+		"orb_ids": [279],
+		"main_orb_id": 279,
+		"dependencies": [],
+		"name": "px4/VehicleRotorForces"
+}

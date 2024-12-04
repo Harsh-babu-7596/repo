@@ -1,0 +1,10 @@
+
+
+{
+		"fields": "\u0089 timestamp;\u0084 failure_type;\u0086[4] _padding0;",
+		"fields_total_length": 61,
+		"orb_ids": [91],
+		"main_orb_id": 91,
+		"dependencies": [],
+		"name": "px4/FailureMotorStatus"
+}
